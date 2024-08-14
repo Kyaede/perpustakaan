@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-header {
+    background: url("../../storage/app/public/img/library.jpg") center center no-repeat;
+    background-attachment: fixed;
+  }
